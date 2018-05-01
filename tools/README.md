@@ -32,6 +32,7 @@ pbiviz
 
 To enable live preview visual assets need to be served on a trusted https server so before you can start you need to install an ssl certificate which will allow visual asssets to load in your web browser. This is a one time setup.
 
+* [How to create the local SSL certificates](CreateCertificate.md)
 * [How to install the local SSL certificates](CertificateSetup.md) 
 
 ## Enable developer visual
