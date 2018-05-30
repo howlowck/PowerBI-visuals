@@ -8,11 +8,11 @@ See [commit](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart/commit/
 For more in depth details about @types, visit the package page on npm. [@types Documentation](https://www.npmjs.com/~types)
 
 ## Add Typings to your Project
-To install types for d3 at version 3.5 (the most recent version supported by pbiviz) as a dev dependency, run the following command.
+To install types for d3 at version 5.x as a dev dependency, run the following command.
 
 ```
 // install d3 typings 
-npm install @types/d3@3.5 --save-dev
+npm install @types/d3@5 --save-dev
 ```
 
 You should now have an @types directory in your node modules.
