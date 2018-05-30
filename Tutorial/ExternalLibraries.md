@@ -74,7 +74,7 @@ There are some things to watch out for when including other JS Libraries.
 * The library needs to be targeting the browser, not NodeJS.  i.e. `express` cannot be included.
 * The library should not make external HTTP calls.  This is because in order for your visual to be certified, custom visuals cannot make external HTTP calls.
 
-If the JS library uses UMD, then you should be able to follow the similar installation path as d3.
+If the JS library uses UMD, then you should be able to follow similar installation steps as d3.
 
 ## Including CSS files
 1. Install an external CSS framework by using any package manager (npm, yarn, etc.)
